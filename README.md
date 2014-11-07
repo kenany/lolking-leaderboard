@@ -1,6 +1,7 @@
 # lolking-leaderboard
 
 [![Build Status][travis-svg]][travis]
+[![Dependency Status][gemnasium-svg]][gemnasium]
 
 Get LolKing's leaderboard.
 
@@ -81,3 +82,5 @@ is an _Object_ containing Lolking's leaderboard of _String_ `region` at _Number_
 
    [travis]: https://travis-ci.org/KenanY/lolking-leaderboard
    [travis-svg]: https://img.shields.io/travis/KenanY/lolking-leaderboard.svg
+   [gemnasium]: https://gemnasium.com/KenanY/lolking-leaderboard
+   [gemnasium-svg]: https://img.shields.io/gemnasium/KenanY/lolking-leaderboard.svg
